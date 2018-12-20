@@ -1,2 +1,2 @@
 # tutorial
-just for learing
+this is just for learning for myself
